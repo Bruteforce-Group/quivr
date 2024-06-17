@@ -208,7 +208,7 @@ unstructured[all-docs]==0.12.4; python_version < '3.12' and python_full_version 
 unstructured-client==0.18.0; python_version >= '3.8'
 unstructured-inference==0.7.23
 unstructured.pytesseract==0.3.12
-urllib3==2.0.7; python_version >= '3.7'
+urllib3==2.2.2; python_version >= '3.7'
 uvicorn==0.22.0; python_version >= '3.7'
 vine==5.1.0; python_version >= '3.6'
 watchdog==4.0.0; python_version >= '3.8'
