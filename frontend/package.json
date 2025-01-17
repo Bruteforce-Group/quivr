@@ -80,7 +80,7 @@
     "heroicons": "2.0.18",
     "i18next": "23.4.2",
     "i18next-http-backend": "2.2.1",
-    "katex": "^0.16.11",
+    "katex": "^0.16.21",
     "lodash": "4.17.21",
     "marked": "9.0.3",
     "next": "^14.1.0",
